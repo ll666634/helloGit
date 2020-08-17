@@ -12,5 +12,6 @@ public class demo {
         System.out.println("hello,springcloud");
         System.out.println("hello,sprngcloud---2");
         System.out.println("创建分支");
+        System.out.println("分支添加");
     }
 }
