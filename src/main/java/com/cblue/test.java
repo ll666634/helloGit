@@ -11,5 +11,7 @@ public class test {
         String str = "hello";
         String str2 = "he" + new String("llo");
         System.out.println(str == str2);
+        
+        System.out.println("预期+++++");
     }
 }
